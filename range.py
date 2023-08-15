@@ -5,3 +5,4 @@ print(list(a))
 print(range(10, 20, 2).index(16))
 # print(range(10, 20, 2).index(15)) видасть помилку, бо немає такого числа
 print(max(range(10, 20, 2)))
+print(len(range(10, 20, 2)))
