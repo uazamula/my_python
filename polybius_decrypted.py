@@ -1,5 +1,5 @@
 abc = list('абвгґдеєжзиіїйклмнопрстуфхцчшщьюя')
-word_encrypted = '63 36 11'
+word_encrypted = '41 25 43 26 14 35 11 33 44 25 35'
 word_decrypted = ''
 n = 6
 m = 6

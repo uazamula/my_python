@@ -5,6 +5,7 @@ print(a)
 print('-----p 45-----element by index --')
 a = [5, 'lesson', "tr", 'r', 1.5, True, 2 * 2 == 3, [1, 2, 3]]
 a[0] = 6
+bbb=[ ]
 print(a[1])
 print(a)
 

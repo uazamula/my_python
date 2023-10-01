@@ -31,6 +31,7 @@ print(d[('e', 2)][0:3])
 print('-----p 55----- dict in --')
 d = {1: 'one', 'door': 'двері', ('e', 2): 'pawn'}
 print(1 in d)
+print('pawn' in d)
 print((2, 'e') in d)
 
 print('-----p 55----- dict get --')

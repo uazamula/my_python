@@ -1,6 +1,6 @@
 abc = list('абвгґдеєжзиіїйклмнопрстуфхцчшщьюя')
-name = 'хузхвн'
-shift = 3  # less than 5
+name = 'укфлєрґокр'
+shift = -4  # less than 5
 crypted = ''
 for letter in list(name):
     index = abc.index(letter.lower()) + shift
@@ -9,3 +9,4 @@ for letter in list(name):
     crypted += abc[index]
 
 print(crypted)
+import io
